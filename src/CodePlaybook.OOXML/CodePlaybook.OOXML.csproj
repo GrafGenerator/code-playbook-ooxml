@@ -3,6 +3,14 @@
     <PropertyGroup>
         <TargetFramework>netstandard1.7</TargetFramework>
         <LangVersion>8</LangVersion>
+        <Title>Playbook-styled helpers for Office Open XML documents, built on top of DocumentFormat.OpenXml</Title>
+        <Authors>Nikita Ivanov (grafgenerator@gmail.com)</Authors>
+        <Description>Playbook-styled helpers for Office Open XML documents, built on top of DocumentFormat.OpenXml</Description>
+        <Copyright>Nikita Ivanov (grafgenerator@gmail.com)</Copyright>
+        <PackageProjectUrl>https://github.com/GrafGenerator/code-playbook-ooxml</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/GrafGenerator/code-playbook-ooxml/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/GrafGenerator/code-playbook-ooxml</RepositoryUrl>
+        <RepositoryType>GitHub</RepositoryType>
     </PropertyGroup>
 
     <ItemGroup>
