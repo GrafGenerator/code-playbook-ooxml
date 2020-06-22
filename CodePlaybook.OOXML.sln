@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePlaybook.OOXML", "src\CodePlaybook.OOXML\CodePlaybook.OOXML.csproj", "{7EDA8A2B-D646-4455-B2C0-E2645D8EED88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePlaybook.OOXML.Tests", "src\CodePlaybook.OOXML.Tests\CodePlaybook.OOXML.Tests.csproj", "{211A2BA8-2369-4D1B-BA93-71BE461B0680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDA8A2B-D646-4455-B2C0-E2645D8EED88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDA8A2B-D646-4455-B2C0-E2645D8EED88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDA8A2B-D646-4455-B2C0-E2645D8EED88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDA8A2B-D646-4455-B2C0-E2645D8EED88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211A2BA8-2369-4D1B-BA93-71BE461B0680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211A2BA8-2369-4D1B-BA93-71BE461B0680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211A2BA8-2369-4D1B-BA93-71BE461B0680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211A2BA8-2369-4D1B-BA93-71BE461B0680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
